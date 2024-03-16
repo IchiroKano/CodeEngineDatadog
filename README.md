@@ -1,1 +1,2 @@
 # CodeEngineDatadog
+Node-REDから値をCodeEngineに送って、CodeEngineからDatadogにカスタムメトリックを届ける
